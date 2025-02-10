@@ -1,1 +1,3 @@
-# sqlalchemy-challenge
+####SQL Alchemy Challenge
+
+    I began by setting up a connection to the ORM and created references for my tables. Then I queried all questions asked of the challenge for both the precipitation and station analysis. Then developed a Flask API to the designated endpoints in my app.py file. All work was done with the help of Xpert Learning Assistant and ChatGPT in structuring code and correcting syntax. 
